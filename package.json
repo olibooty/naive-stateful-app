@@ -1,0 +1,15 @@
+{
+  "name": "state-wat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --port 8421"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
